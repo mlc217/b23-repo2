@@ -1,0 +1,12 @@
+coffee 2.99 150cal
+Donuts 4.99 1500cal
+
+Mocha 3.15 200cal
+Expresso 3.25 250 cal
+
+Ice Coffee 2.88 300cal
+
+Lunch menu:
+butter chicken 1200 cal 10.99
+Polo 2000 cal 15.99
+
